@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @dldPdks5
-- 👀 I’m interested in 대장
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ggg
-- ⚡ Fun fact: ...
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning C, Python
+- 💞️ I’m looking to collaborate on YOU
+- 📫 How to reach me => eclipse8226@naver.com
+- 😄 Pronouns: 
+- ⚡ Fun fact: **
 
 <!---
 dldPdks5/dldPdks5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
